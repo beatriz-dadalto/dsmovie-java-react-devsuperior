@@ -33,11 +33,11 @@ function getFills(score: number) {
 
 function Star({ fill }: StarProps) {
   if (fill === 0) {
-    return <StarFullIcon />;
+    return <StarEmptyIcon/>;
   } else if (fill === 1) {
-    return <StarHalfIcon />;
+    return <StarFullIcon />;
   } else {
-    return <StarEmptyIcon />;
+    return <StarHalfIcon />;
   }
 }
 
