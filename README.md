@@ -3,7 +3,8 @@
 <ol align="left">
  <li><strong><a href="#--sobre-o-projeto">Sobre</a></strong></li>
  <li><strong><a href="#--tecnologias">Tecnologias</a></strong></li>
- <li><strong><a href="#--autor">Autor</a></strong></li>
+ <li><strong><a href="#--backend">Aprendizados de back-end</a></strong></li>
+ <li><strong><a href="#--frontend">Aprendizados de fornt-end</a></strong></li>
 </ol>
 
 🌎 **Acesse agora:**
@@ -48,7 +49,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - **VSCode**
 - **Eclipse**
 
-### Aprendizados Back-end
+### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--backend) :tada: Aprendizados Back-end
 
 - Modelo de domínio
 - Acesso a banco de dados
@@ -61,7 +62,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - Criar endpoints da API REST
 - Implantação na nuvem (Heroku e Netlify)
 
-### Aprendizados Front-end
+### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--frontend) :tada: Aprendizados Front-end
 
 - Integração do back end com front end
 - Três pilares do React
