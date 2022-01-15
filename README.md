@@ -49,7 +49,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - **VSCode**
 - **Eclipse**
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--backend) :tada: Aprendizados Back-end
+### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--backend) 🎉 Aprendizados Back-end
 
 - Modelo de domínio
 - Acesso a banco de dados
@@ -62,7 +62,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 - Criar endpoints da API REST
 - Implantação na nuvem (Heroku e Netlify)
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--frontend) :tada: Aprendizados Front-end
+### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--frontend) 🎉 Aprendizados Front-end
 
 - Integração do back end com front end
 - Três pilares do React
