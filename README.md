@@ -3,8 +3,8 @@
 <ol align="left">
  <li><strong><a href="#--sobre-o-projeto">Sobre</a></strong></li>
  <li><strong><a href="#--tecnologias">Tecnologias</a></strong></li>
- <li><strong><a href="#--backend">Aprendizados Back-end</a></strong></li>
- <li><strong><a href="#--frontend">Aprendizados Front-end</a></strong></li>
+ <li><strong><a href="#--aprendizados-back-end">Aprendizados Back-end</a></strong></li>
+ <li><strong><a href="#--aprendizados-front-end">Aprendizados Front-end</a></strong></li>
 </ol>
 
 🌎 **Acesse agora:**
