@@ -69,7 +69,7 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
   - Componentes
   - Props
   - Estado
-  - React Hooks
+- React Hooks
   - useState
   - useEffect
   - useParams
