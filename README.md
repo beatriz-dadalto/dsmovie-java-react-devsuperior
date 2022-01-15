@@ -11,7 +11,7 @@
 <a href="dsmovie-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>dsmovie-biacoelho.netlify.app</strong></a>
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/image-demo.png" width=360px/>
+    <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/biacoelho/dsmovie-java-react-devsuperior/blob/main/mobile-demo.png" width=360px/>
 </h1>
 
 <br />
@@ -27,12 +27,12 @@ A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Bac
 ### :space_invader: Modelo Conceitual
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/modelo-conceitual.png" width=480px/>
+    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/biacoelho/dsmovie-java-react-devsuperior/blob/main/modelo-conceitual-dsmovie.jpg" width=480px/>
 </h1>
 
 <br />
 
-### [](dsmovie-java-react-devsuperior#--tecnologias) 🤖 Tecnologias
+### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--tecnologias) 🤖 Tecnologias
 
 - **Java 11**
 - **Spring Boot**
