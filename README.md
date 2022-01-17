@@ -9,7 +9,8 @@
 
 🌎 **Acesse agora:**
 
-<a href="dsmovie-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>dsmovie-biacoelho.netlify.app</strong></a>
+<a href="dsmovie-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-biacoelho.netlify.app</strong></a>
+[]()
 
 <h1 style="padding: 50px; background: #333333;">
     <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/biacoelho/dsmovie-java-react-devsuperior/blob/main/mobile-demo.png" width=360px/>
