@@ -22,7 +22,7 @@
 
 Semana Spring React - Evento promovido pela escola DevSuperior em 01/2022.
 
-A aplicação consiste em fazer uma busca páginada e avaliação de filmes. Back-end construído com Spring Boot e front-end com React e Bootstrap.
+A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back-end construído com Spring Boot e front-end com React e Bootstrap.
 
 <br />
 
