@@ -18,7 +18,7 @@
 
 <br />
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--sobre-o-projeto) 🔥 Sobre o projeto
+### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--sobre-o-projeto) 🔥 Sobre o projeto
 
 Semana Spring React - Evento promovido pela escola DevSuperior em 01/2022.
 
@@ -29,12 +29,12 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 ### :space_invader: Modelo Conceitual
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/biacoelho/dsmovie-java-react-devsuperior/blob/main/modelo-conceitual-dsmovie.jpg" width=480px/>
+    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/beatrizdalto/dsmovie-java-react-devsuperior/blob/main/modelo-conceitual-dsmovie.jpg" width=480px/>
 </h1>
 
 <br />
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--tecnologias) 🤖 Tecnologias
+### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--tecnologias) 🤖 Tecnologias
 
 - **Java 11**
 - **Spring Boot**
@@ -50,7 +50,7 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 - **VSCode**
 - **Eclipse**
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--backend) 🎉 Aprendizados Back-end
+### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--backend) 🎉 Aprendizados Back-end
 
 - Modelo de domínio
 - Acesso a banco de dados
@@ -82,7 +82,7 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 
 <br />
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--autor) 💎 Autor
+### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--autor) 💎 Autor
 
 <a href="https://linktr.ee/beatriz.dadalto">
  <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Bia Coelho"/>
@@ -96,4 +96,4 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizdalto)](https://www.linkedin.com/in/beatrizdalto)
