@@ -9,11 +9,11 @@
 
 🌎 **Acesse agora:**
 
-<a href="dsmovie-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-biacoelho.netlify.app</strong></a>
+<a href="dsmovie-beatrizdalto.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-beatrizdalto.netlify.app</strong></a>
 []()
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/biacoelho/dsmovie-java-react-devsuperior/blob/main/mobile-demo.png" width=360px/>
+    <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/beatrizdalto/dsmovie-java-react-devsuperior/blob/main/mobile-demo.png" width=360px/>
 </h1>
 
 <br />
@@ -63,7 +63,7 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 - Criar endpoints da API REST
 - Implantação na nuvem (Heroku e Netlify)
 
-### [](https://github.com/biacoelho/dsmovie-java-react-devsuperior#--frontend) 🎉 Aprendizados Front-end
+### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--frontend) 🎉 Aprendizados Front-end
 
 - Integração do back end com front end
 - Três pilares do React
@@ -85,9 +85,9 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 ### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--autor) 💎 Autor
 
 <a href="https://linktr.ee/beatriz.dadalto">
- <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Bia Coelho"/>
+ <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Beatriz Dalto"/>
 <br />
-<sub><strong>Bia Coelho</strong></sub></a>
+<sub><strong>Beatriz Dalto</strong></sub></a>
 
 <br />
 <br />
